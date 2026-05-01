@@ -38,7 +38,7 @@ Email: mazid@aiub.edu
 Dip Nandi  
 American International University-Bangladesh, Dhaka, Bangladesh  
 Email: dip.nandi@aiub.edu  
-MD. MAZID-UL-HAQUE
+
 ---
 
 ## Research Aim
