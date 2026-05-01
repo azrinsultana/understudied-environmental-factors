@@ -1,6 +1,6 @@
 # Mining Understudied Environmental Factors of Chronic Diseases Using NLP
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+
 ![NLP](https://img.shields.io/badge/NLP-Biomedical%20Text%20Mining-green)
 ![NER](https://img.shields.io/badge/Task-Named%20Entity%20Recognition-orange)
 ![Biomedical Text Mining](https://img.shields.io/badge/Domain-Biomedical%20Literature%20Mining-brightgreen)
@@ -139,16 +139,7 @@ Text preprocessing was performed to convert raw biomedical abstracts into a clea
 
 The preprocessing pipeline includes:
 
-- duplicate removal;
-- missing abstract removal;
-- abstract quality screening;
-- sentence-level filtering;
-- text cleaning and normalization;
-- token normalization;
-- abbreviation detection and expansion;
-- selective stopword handling;
-- lemmatization;
-- entity-preserving punctuation handling.
+![text_processing](https://github.com/azrinsultana/understudied-environmental-factors/blob/d17fc1f165c9c574583628f452279b1f7c86b104/methodology.png)
 
 Special care was taken to preserve important biomedical and chemical terms such as:
 
