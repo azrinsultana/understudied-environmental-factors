@@ -413,51 +413,12 @@ label-studio
 
 ---
 
-## Usage
 
-### Step 1: Preprocess biomedical abstracts
 
-```bash
-python src/preprocessing.py
-```
 
-### Step 2: Build environmental factor and disease dictionaries
 
-```bash
-python src/dictionary_builder.py
-```
 
-### Step 3: Run NER tagging
 
-```bash
-python src/ner_tagger.py
-```
-
-### Step 4: Generate BIO-tagged dataset
-
-```bash
-python src/bio_tagger.py
-```
-
-### Step 5: Extract disease–factor relationships
-
-```bash
-python src/relation_extraction.py
-```
-
-### Step 6: Calculate impact scores
-
-```bash
-python src/impact_score.py
-```
-
-### Step 7: Evaluate model performance
-
-```bash
-python src/evaluation.py
-```
-
----
 
 ## Example Output
 
