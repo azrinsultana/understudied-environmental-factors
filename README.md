@@ -317,7 +317,7 @@ BioBERT also performed strongly, with an F1-score of 0.9289.
 |---|---:|---:|---:|
 | Chronic Disease Entity | 86.7% | 93.2% | 89.8% |
 | Environmental Risk Factor Entity | 88.6% | 93.3% | 90.9% |
-| Relation Extraction | 82.0% | - | - |
+| Relation Extraction | 96.0% | - | - |
 
 ---
 
