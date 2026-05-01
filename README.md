@@ -365,7 +365,7 @@ Mold spores are microscopic fungal particles found in damp indoor and outdoor en
 
 ### Sulfites
 
-Sulfites are widely used as preservatives in foods, beverages, and some medications. They help maintain food color and prevent microbial growth. However, sulfites may trigger asthma-like symptoms, allergic responses, respiratory problems, and other health issues in sensitive individuals.
+Sulfites are widely used as preservatives in foods, beverages, and some medications. They help maintain food color and prevent microbial growth. However, sulfites trigger asthma-like symptoms, allergic responses, respiratory problems, and other health issues in sensitive individuals.
 
 ---
 
@@ -395,97 +395,6 @@ This comparison showed that established risk factors receive much more publicati
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── dictionaries/
-│
-├── notebooks/
-│   ├── 01_data_collection.ipynb
-│   ├── 02_preprocessing.ipynb
-│   ├── 03_dictionary_building.ipynb
-│   ├── 04_ner_annotation.ipynb
-│   ├── 05_relation_extraction.ipynb
-│   └── 06_understudied_factor_analysis.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── dictionary_builder.py
-│   ├── ner_tagger.py
-│   ├── bio_tagger.py
-│   ├── relation_extraction.py
-│   ├── impact_score.py
-│   ├── evaluation.py
-│   └── visualization.py
-│
-├── results/
-│   ├── extracted_entities.csv
-│   ├── disease_factor_pairs.csv
-│   ├── model_performance.csv
-│   ├── relation_extraction_results.csv
-│   └── understudied_factors.csv
-│
-├── figures/
-│   ├── paper_collection_process.png
-│   ├── publication_trend.png
-│   ├── country_distribution.png
-│   ├── top_journals.png
-│   ├── preprocessing_pipeline.png
-│   ├── factor_identification_flow.png
-│   └── top_environmental_factors.png
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
-
-## Installation
-
-Clone this repository:
-
-```bash
-git clone https://github.com/your-username/chronic-disease-environmental-factor-mining.git
-```
-
-Move into the project directory:
-
-```bash
-cd chronic-disease-environmental-factor-mining
-```
-
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate the virtual environment.
-
-For Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-For macOS or Linux:
-
-```bash
-source venv/bin/activate
-```
-
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Requirements
 
