@@ -9,6 +9,17 @@ This repository presents an NLP-based research framework for mining understudied
 Chronic diseases such as cancer, cardiovascular disease, diabetes, stroke, asthma, and lung diseases are among the major causes of global mortality. Many well-known risk factors, including smoking, obesity, hypertension, air pollution, and physical inactivity, have already been widely investigated. However, several environmental exposures may also contribute to chronic disease development but remain less studied in biomedical research.
 
 
+Data sources include:
+
+- PubMed;
+- ScienceDirect;
+- EMBASE;
+- Web of Science;
+- IEEE Xplore;
+- Google Scholar.
+
+
+
 ## Authors
 
 Azrin Sultana  
@@ -24,37 +35,6 @@ American International University-Bangladesh, Dhaka, Bangladesh
 Email: dip.nandi@aiub.edu  
 
 ---
-
-## Research Aim
-
-The main aim of this study is to develop a systematic NLP framework that can automatically identify understudied environmental factors linked with chronic diseases from large-scale biomedical abstracts.
-
-
-Data sources include:
-
-- PubMed;
-- ScienceDirect;
-- EMBASE;
-- Web of Science;
-- IEEE Xplore;
-- Google Scholar.
-
-Each article record includes bibliographic and textual information.
-
-| Attribute | Description |
-|---|---|
-| PMID | Unique biomedical article identifier |
-| Title | Title of the research article |
-| Abstract | Main text used for NLP processing |
-| Authors | Author names |
-| Affiliation | Institutional information |
-| Country | Country associated with the publication |
-| Journal | Journal name |
-| Year | Publication year |
-| URL | Article access link |
-
-
-
 
 ## Requirements
 
