@@ -31,10 +31,14 @@ Azrin Sultana
 American International University-Bangladesh, Dhaka, Bangladesh  
 Email: 25-93678-1@student.aiub.edu  
 
+MD. MAZID-UL-HAQUE
+American International University-Bangladesh, Dhaka, Bangladesh  
+Email: mazid@aiub.edu
+
 Dip Nandi  
 American International University-Bangladesh, Dhaka, Bangladesh  
 Email: dip.nandi@aiub.edu  
-
+MD. MAZID-UL-HAQUE
 ---
 
 ## Research Aim
