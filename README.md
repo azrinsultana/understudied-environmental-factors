@@ -72,25 +72,7 @@ If you use this work, please cite:
 
 ---
 
-## Keywords
 
-```text
-Biomedical NLP
-Chronic Disease
-Environmental Risk Factors
-Named Entity Recognition
-BIO Tagging
-Relation Extraction
-PubMed Mining
-Medical Literature Mining
-Disease-Factor Association
-Understudied Factors
-Public Health Informatics
-Environmental Exposure
-Transformer Models
-BioBERT
-DistilBERT
-```
 
 ---
 
