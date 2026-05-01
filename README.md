@@ -8,9 +8,6 @@ This repository presents an NLP-based research framework for mining understudied
 
 Chronic diseases such as cancer, cardiovascular disease, diabetes, stroke, asthma, and lung diseases are among the major causes of global mortality. Many well-known risk factors, including smoking, obesity, hypertension, air pollution, and physical inactivity, have already been widely investigated. However, several environmental exposures may also contribute to chronic disease development but remain less studied in biomedical research.
 
-This project uses natural language processing, biomedical named entity recognition, BIO tagging, dictionary-based annotation, relation extraction, co-occurrence analysis, and impact-score-based ranking to identify hidden or neglected environmental factors from medical literature.
-
-
 
 ## Authors
 
