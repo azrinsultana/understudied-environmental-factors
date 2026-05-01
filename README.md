@@ -79,44 +79,6 @@ biopython
 label-studio
 ```
 
-
-
-
-
-
-
-
-
-## Example Output
-
-```text
-Factor: Biosolids
-Associated Disease: Cancer
-Relation: Positive
-Source Type: Human-made
-Impact Status: Understudied
-```
-
-```text
-Factor: Mold Spores
-Associated Disease: Lung Disease
-Relation: Positive
-Source Type: Natural
-Impact Status: Understudied
-```
-
-```text
-Factor: Butyl Benzyl Phthalate
-Associated Disease: Asthma
-Relation: Positive
-Source Type: Human-made
-Impact Status: Understudied
-```
-
----
-
-
-
 ## Citation
 
 If you use this work, please cite:
