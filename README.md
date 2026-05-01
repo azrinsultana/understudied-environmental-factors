@@ -139,7 +139,7 @@ Text preprocessing was performed to convert raw biomedical abstracts into a clea
 
 The preprocessing pipeline includes:
 
-![text_processing](https://github.com/azrinsultana/understudied-environmental-factors/blob/d17fc1f165c9c574583628f452279b1f7c86b104/methodology.png)
+![text_processing](https://github.com/azrinsultana/understudied-environmental-factors/blob/e274b9a16aeb1c4ae19d5d882f9555cb6503cfbe/text_processing.png)
 
 Special care was taken to preserve important biomedical and chemical terms such as:
 
